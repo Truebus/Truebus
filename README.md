@@ -1,4 +1,4 @@
-<img src="https://github.com/Truebus/Truebus/raw/main/Black%20and%20Red%20Gradient%20Gaming%20Youtube%20Banner.png" width="1280" height="640" />
+<img src="https://github.com/Truebus/Truebus/raw/main/Black%20and%20Red%20Gradient%20Gaming%20Youtube%20Banner.png" width="1280" height="400" />
 
 
 
