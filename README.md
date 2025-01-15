@@ -12,17 +12,6 @@
 
 <img align="right" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="coding" width="400"/>
 
-<style>
-  @keyframes fadeIn {
-    0% {
-      opacity: 0;
-    }
-    100% {
-      opacity: 1;
-    }
-  }
-</style>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=truebus&label=Profile%20views&color=0e75b6&style=flat" alt="truebus" /> </p>
 
